@@ -1,3 +1,8 @@
+## 2.2.1
+
+- Update sdk and dependencies to the most recent ones
+- Made a copy from original
+
 ## 2.2.0
 
 - Update sdk and dependencies to the most recent ones

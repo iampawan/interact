@@ -1,4 +1,4 @@
-import 'package:interact_pk/interact.dart' show Progress, Theme;
+import 'package:interact_pk/interact_pk.dart' show Progress, Theme;
 
 Future<void> main() async {
   const length = 1000;

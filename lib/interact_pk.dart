@@ -1,4 +1,4 @@
-library interact;
+library interact_pk;
 
 import 'package:interact_pk/src/framework/framework.dart' show Context;
 
