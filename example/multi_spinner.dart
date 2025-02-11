@@ -1,4 +1,4 @@
-import 'package:interact/interact.dart' show MultiSpinner, Spinner;
+import 'package:interact_pk/interact.dart' show MultiSpinner, Spinner;
 
 Future<void> main() async {
   final spinners = MultiSpinner();

@@ -1,4 +1,4 @@
-# Interact
+# Copy of Interact package from pub.dev
 
 A collection of customizable interactive command-line components.
 
